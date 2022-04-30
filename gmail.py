@@ -19,7 +19,7 @@ user = input(" [ +@gmail.com ] Enter Adres gmail target :  ")
 
 print("\n")
 
-pwd = input(" Enter adres password list [ name password list {2} ] & [ password khodkar {1} ]  :  ")
+pwd = input(" Enter adres password list [ name password list {2} ] & [ password khodkar {0} ]  :  ")
 
 if pwd=='1':
     passswfile="Passwords.txt"
